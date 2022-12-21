@@ -1,0 +1,25 @@
+.navbar {
+    background-color: #03203C;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+}
+
+.brand_name {
+    color: #fff;
+}
+
+.menu {
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+}
+
+.menu a {
+    color: #fff;
+    margin-left: 2rem;
+    text-decoration: none;
+    font-size: 1.2rem;
+}
+

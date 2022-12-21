@@ -1,0 +1,76 @@
+.todo_section {
+    margin-top: 50px;
+}
+
+.todo_section .heading {
+    font-size: 32px;
+    margin-bottom: 66px;
+    text-align: center;
+}
+
+.add_task_form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.todo_section .input_todo {
+    width: 340px;
+    padding: 0.8rem 1rem;
+    border-radius: 6px;
+    border: none;
+    border: 1px solid #ddd;
+    font-size: 16px;
+    margin-right: 16px;
+}
+
+.todo_section .input_submit {
+    background-color: #03203C;
+    color: #fff;
+    font-weight: bold;
+    padding: 0.8rem 1rem;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.todo_list_container {
+    width: 640px;
+    margin: auto;
+}
+
+.todo_list_container .todo_list_heading {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.list {
+    background-color: #03203C;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    padding: 0.8rem 1rem;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.list .btn {
+    background-color: #03203C;
+    color: #FF6263;
+    margin-left: 16px;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+    font-weight: normal;
+}
+
+.list .link_btn {
+    background-color: #03203C;
+    color: #51E1ED;
+    margin-left: 16px;
+    border: none;
+    font-size: 17px;
+    cursor: pointer;
+    text-decoration: none;
+    font-weight: normal;
+}

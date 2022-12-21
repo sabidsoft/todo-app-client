@@ -1,0 +1,28 @@
+.edit_section {
+    margin-top: 50px;
+}
+
+.edit_section .heading {
+    font-size: 32px;
+    margin-bottom: 66px;
+    text-align: center;
+}
+
+.edit_section .input_todo {
+    width: 340px;
+    padding: 0.8rem 1rem;
+    border-radius: 6px;
+    border: none;
+    border: 1px solid #ddd;
+    font-size: 16px;
+    margin-right: 16px;
+}
+
+.edit_section .input_submit {
+    background-color: #03203C;
+    color: #fff;
+    font-weight: bold;
+    padding: 0.8rem 1rem;
+    border-radius: 6px;
+    cursor: pointer;
+}
